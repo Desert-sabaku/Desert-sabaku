@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Desert-sabaku
 - 👀 I’m interested in computer.
 - 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on With anyone
+- 💞️ I'm looking to collaborate with someone who shares my interests.
 - 📫 mail address : yuu.mat.930@gmail.com
 
 <!---
